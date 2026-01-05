@@ -12,6 +12,10 @@
     "scrape": "node scripts/scrape-claims.js",
     "monitor": "node scripts/monitor-claims.js"
   },
+  "engines": {
+    "node": "20.x",
+    "npm": ">=9"
+  },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "^1.2.11",
